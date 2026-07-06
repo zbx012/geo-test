@@ -1,0 +1,12 @@
+# AI Crawler Permissions for SoundMate
+# https://zbx012.github.io/geo-test/
+
+Allow: GPTBot
+Allow: ClaudeBot
+Allow: PerplexityBot
+Allow: Google-Extended
+Allow: CCBot
+Allow: anthropic-ai
+
+Disallow: /admin
+Disallow: /private

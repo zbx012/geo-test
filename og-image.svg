@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="630" viewBox="0 0 1200 630">
+  <rect width="1200" height="630" fill="#1a1a2e"/>
+  <rect x="50" y="50" width="1100" height="530" rx="30" fill="#16213e"/>
+  <text x="600" y="240" text-anchor="middle" font-family="system-ui, sans-serif" font-size="56" font-weight="800" fill="#38bdf8">SoundMate 智能降噪耳机 Pro</text>
+  <text x="600" y="330" text-anchor="middle" font-family="system-ui, sans-serif" font-size="36" fill="#e2e8f0">专为大学生打造 · ANC主动降噪 · 8小时续航 · 仅199元</text>
+  <text x="600" y="480" text-anchor="middle" font-family="system-ui, sans-serif" font-size="28" fill="#8899b4">好评率96%  |  已售2.1万副  |  学生党闭眼入</text>
+</svg>

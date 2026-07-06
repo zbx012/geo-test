@@ -1,0 +1,16 @@
+{
+  "service_name": "SoundMate 智能降噪耳机 Pro 产品页面",
+  "service_type": "产品信息页 / 电商落地页",
+  "description": "提供 SoundMate 智能降噪耳机 Pro 的完整产品信息，包括参数、价格、用户评价和购买引导。",
+  "provider": "SoundMate",
+  "contact": {
+    "email": "support@soundmate.example.com",
+    "url": "https://zbx012.github.io/geo-test/"
+  },
+  "capabilities": [
+    "产品参数查询",
+    "价格与库存信息",
+    "常见问题解答",
+    "使用场景建议"
+  ]
+}
